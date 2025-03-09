@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,product_name,category,quantity,price,total_sales
+1001,201,05/01/2024,Laptop,Electronics,1,1000,1000
+1002,202,07/01/2024,Smartphone,Electronics,2,500,1000
+1003,203,10/01/2024,Headphones,Accessories,1,100,100
+1004,201,01/02/2024,Laptop,Electronics,1,950,950
+1005,204,15/02/2024,Tablet,Electronics,3,300,900
+1006,205,02/03/2024,Smartwatch,Wearables,2,200,400
+1007,206,10/03/2024,Monitor,Electronics,1,400,400
+1008,202,01/04/2024,Smartphone,Electronics,1,480,480
+1009,207,15/04/2024,Camera,Photography,1,600,600
+1010,208,01/05/2024,Headphones,Accessories,3,120,360
